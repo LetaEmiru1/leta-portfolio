@@ -4,7 +4,7 @@
 
 This repository contains the source code for my professional portfolio website, designed to showcase my skills as a software engineer with a background in mechanical engineering.
 
-**Live Site:** [https://leta-portfolio-k6j15nlry-letas-projects-4cb0af3a.vercel.app/](https://leta-portfolio-k6j15nlry-letas-projects-4cb0af3a.vercel.app/)
+**Live Site:** [https://leta-portfolio-ab4v.vercel.app/](/https://leta-portfolio-ab4v.vercel.app/)
 
 ---
 
@@ -56,3 +56,4 @@ To run this project on your own machine, follow these steps:
     ```
 
 The site will now be running on `http://localhost:3000`.
+
