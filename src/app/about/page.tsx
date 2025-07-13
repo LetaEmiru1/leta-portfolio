@@ -19,7 +19,7 @@ export default function AboutPage() {
             I began my journey in mechanical engineering, mastering the physics of how the world works. Driven by a passion for building and creating, I transitioned into software engineering to construct the digital systems that power our modern world.
           </p>
           <p>
-            This background gives me a unique perspective. I don&apos;t just write code; I engineer solutions with a robust, first-principles approach. Whether I'm working at the core of an operating system with C or building a modern cloud API with Node.js and Docker, I bring a commitment to precision, performance, and architectural integrity.
+            This background gives me a unique perspective. I don&apos;t just write code; I engineer solutions with a robust, first-principles approach. Whether I&apos;m working at the core of an operating system with C or building a modern cloud API with Node.js and Docker, I bring a commitment to precision, performance, and architectural integrity.
           </p>
         </div>
       </div>
