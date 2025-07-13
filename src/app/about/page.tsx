@@ -7,7 +7,7 @@ export default function AboutPage() {
       <div className="about-grid">
         <div className="about-image-container">
           <Image
-            src="/profile.JPG"
+            src="/profile.jpg"
             alt="Headshot of Leta Malimo"
             width={200}
             height={200}
