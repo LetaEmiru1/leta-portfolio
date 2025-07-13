@@ -4,7 +4,7 @@
 
 This repository contains the source code for my professional portfolio website, designed to showcase my skills as a software engineer with a background in mechanical engineering.
 
-**Live Site:** [https://leta-portfolio-ab4v.vercel.app/](/https://leta-portfolio-ab4v.vercel.app/)
+**Live Site:** [https://leta-portfolio-ab4v.vercel.app/](https://leta-portfolio-ab4v.vercel.app/)
 
 ---
 
@@ -18,7 +18,6 @@ The design philosophy is **"architectural and versatile,"** reflecting my abilit
 
 - **Component-Based Architecture:** Built with reusable components for the Header, Footer, and Project Cards.
 - **Sophisticated Animations:** Uses Framer Motion for smooth page transitions, creating a polished user experience.
-- **Responsive Design:** (We will add this feature next)
 - **Professional Tooling:** Uses TypeScript for type safety and ESLint for code quality.
 - **CI/CD:** Deployed on Vercel with automatic builds triggered by pushes to the `main` branch.
 
@@ -56,4 +55,3 @@ To run this project on your own machine, follow these steps:
     ```
 
 The site will now be running on `http://localhost:3000`.
-
